@@ -1,26 +1,25 @@
 Ajouter des captures d'écran
 ==================
 
-Vous pouvez copier-coller des images directement dans Kanboard pour gagner du temps.
-Ces images sont mises en ligne en tant que pièces jointes à une tâche.
+Vous pouvez copier et coller des images directement dans Kanboard pour gagner du temps.
+Ces images sont enregistrées en tant que pièces jointes des tâches.
 
-Ceci est particulièrement utile pour prendre des captures d'écran, quand il faut par exemple décrire un problème.
+Ceci est particulièrement utile pour prendre des captures d'écran pour décrire un problème par exemple.
 
-Vous pouvez ajouter directement des captures depuis le tableau en cliquant sur le menu déroulant ou sur la page de visualisation des tâches.
+Vous pouvez ajouter directement des captures d'écran depuis le tableau en cliquant sur le menu ou dans la vue d'une tâche.
 
-![La capture d'écran dans le menu déroulant](screenshots/dropdown-screenshot.png)
+![Menu de capture d'écran](screenshots/dropdown-screenshot.png)
 
-Pour ajouter une nouvelle image, prenez votre capture et collez-la avec CTRL+V ou Command+V:
+Pour ajouter une nouvelle image, prenez votre capture d'écran et copiez-la avec CTRL+V ou Command+V:
 
-![Page de capture](screenshots/task-screenshot.png)
+![Page des captures d'écran](screenshots/task-screenshot.png)
 
-Avec Mac OS X, vous pouvez utiliser les raccourcis suivants pour prendre des captures d'écran :
+Sur Mac OS X, vous pouvez utiliser ces raccourcis pour prendre des captures d'écran:
 
-- Command-Control-Maj-3 : prend une capture de l'écran entier et l'enregistre dans le presse-papiers
-- Command-Control-Maj-4, puis choix d'une zone : prend une capture d'une zone définie et l'enregistre dans le presse-papiers
-- Command-Control-Maj-4, puis touche espace, puis clic sur une fenêtre : prend une capture d'une fenêtre et l'enregistre dans le presse-papiers
+- Command-Control-Shift-3: Prend une capture d'écran de l'écran et l'enregistre dans le presse-papier
+- Command-Control-Shift-4, puis sélectionner une zone: prend une capture de la zone et l'enregistrez dans le presse-papier
+- Command-Control-Shift-4, puis espace, puis clic sur une fenêtre: prend une capture d'écran d'une fenêtre et l'enregistre dans le presse-papier
 
-Il existe plusieurs applications tierces qui peuvent être utilisées pour prendre des captures d'écran avec des annotations et un choix de formes.
+Il y a également plusieurs applications tierces qui peuvent être utilisées pour prendre des captures d'écran avec des annotations et des formes dessinées.
 
-**Remarque : cette fonctionnalité n'est pas disponible sur tous les navigateurs.** Elle n'existe pas pour Safari en raison de ce bug : https://bugs.webkit.org/show_bug.cgi?id=49141
-
+**Note: Cette fonctionnalité ne fonctionne pas avec tous les navigateurs.** Cela ne fonctionne pas avec Safari à cause de ce bug: https://bugs.webkit.org/show_bug.cgi?id=49141
